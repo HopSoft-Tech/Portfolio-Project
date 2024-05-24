@@ -25,7 +25,7 @@ Include a link or screenshot of the portfolio website project here.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-website-project.git`
+1. Clone the repository: `git clone https://github.com/HopSoft-Tech/portfolio-website-project.git`
 2. Open the project folder: `cd portfolio-website-project`
 
 ## Usage
